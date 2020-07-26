@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="sity">Sity</string>
+    <string name="sityHint">Moscow</string>
+    <string name="Temperature">Temperature</string>
+</resources>
