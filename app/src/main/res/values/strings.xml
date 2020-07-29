@@ -3,4 +3,8 @@
     <string name="sity">Ваш город</string>
     <string name="sityHint">Moscow</string>
     <string name="Temperature">Температура</string>
+    <string name="selectedcityhint">Ваш Город</string>
+    <string name="windSpeedText">Скорость ветра</string>
+    <string name="pressureText">Давление</string>
+    <string name="ApplyText">Apply</string>
 </resources>
