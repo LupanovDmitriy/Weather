@@ -7,4 +7,5 @@
     <string name="windSpeedText">Скорость ветра</string>
     <string name="pressureText">Давление</string>
     <string name="ApplyText">Apply</string>
+    <string name="ChiceSityText">...</string>
 </resources>

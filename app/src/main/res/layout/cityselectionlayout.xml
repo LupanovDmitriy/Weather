@@ -6,10 +6,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
+    <EditText
         android:id="@+id/citytextView"
         android:layout_width="298dp"
-        android:layout_height="31dp"
+        android:layout_height="45dp"
         android:layout_marginTop="140dp"
         android:hint="@string/selectedcityhint"
         app:layout_constraintEnd_toEndOf="parent"
